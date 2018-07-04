@@ -1,0 +1,6 @@
+module Pods_02Timer___ {
+  umbrella header "Pods-02Timer 使用-umbrella.h"
+
+  export *
+  module * { export * }
+}
